@@ -41,8 +41,7 @@
     </build>
 
     <scm>
-        <connection>scm:git:git://github.com/AStrizh/SpringPetClinic.git</connection>
-        <developerConnection>scm:git:https://AStrizh@github.com/SpringPetClinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/AStrizh/SpringPetClinic.git</developerConnection>
     </scm>
 
 </project>
