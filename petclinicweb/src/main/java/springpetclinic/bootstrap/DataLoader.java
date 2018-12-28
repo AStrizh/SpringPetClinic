@@ -1,12 +1,12 @@
 package springpetclinic.bootstrap;
 
-import model.Owner;
-import model.Vet;
+import springpetclinic.model.Owner;
+import springpetclinic.model.Vet;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import services.OwnerService;
-import services.VetService;
+import springpetclinic.services.OwnerService;
+import springpetclinic.services.VetService;
 
 @Component
 public class DataLoader implements CommandLineRunner {
